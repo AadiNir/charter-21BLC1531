@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "crypto-js": "^4.2.0",
+    "merkletreejs": "^0.4.0",
     "web3": "^4.15.0"
   }
 }
